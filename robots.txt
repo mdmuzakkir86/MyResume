@@ -1,2 +1,0 @@
-Allow: /
-Sitemap: https://muzakkir.tech//sitemap.xml
